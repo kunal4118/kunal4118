@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking for a Job / Internship in Data Analytics
-- 📫 Email: cse.kunal@gmail.com
+- 📫 Email: <private>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: if 'software at Accenture' <= 2009 and 'textiles business owner' > 2010, return True.
 
